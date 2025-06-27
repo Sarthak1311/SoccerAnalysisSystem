@@ -1,0 +1,14 @@
+2025-06-25 18:38:12,643 - INFO - creating directory data for file: data1.txt 
+2025-06-25 18:38:12,643 - INFO - creating the file :data1.txt
+2025-06-25 18:38:12,643 - INFO - creating directory detection for file: detect_players.py 
+2025-06-25 18:38:12,643 - INFO - creating the file :detect_players.py
+2025-06-25 18:38:12,643 - INFO - creating directory tracking for file: track_players.py 
+2025-06-25 18:38:12,643 - INFO - creating the file :track_players.py
+2025-06-25 18:38:12,643 - INFO - creating directory jersey_recognition for file: read_jersey_number.py 
+2025-06-25 18:38:12,643 - INFO - creating the file :read_jersey_number.py
+2025-06-25 18:38:12,643 - INFO - creating directory action for file: detect_action.py 
+2025-06-25 18:38:12,643 - INFO - creating the file :detect_action.py
+2025-06-25 18:38:12,643 - INFO - creating directory utils for file: video_utils.py 
+2025-06-25 18:38:12,643 - INFO - creating the file :video_utils.py
+2025-06-25 18:38:12,643 - INFO - creating the file :requirement.txt
+2025-06-25 18:38:12,643 - INFO - creating the file :README.md
