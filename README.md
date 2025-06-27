@@ -28,9 +28,9 @@ A computer vision-based system that automatically detects and tracks soccer play
 
 ### 1. Clone & Install Requirements
 
-git clone https://github.com/your-username/soccerAnalysisSystem.git
-cd soccerAnalysisSystem
-pip install -r requirements.txt
+1. git clone https://github.com/Sarthak1311/soccerAnalysisSystem.git
+2. cd soccerAnalysisSystem
+3. pip install -r requirements.txt
 
 ### Potential Use Cases
 1. Tactical player heatmaps based on movement
